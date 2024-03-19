@@ -7,7 +7,7 @@ tags: [Unity, 2D]
 author: Javier
 ---
 
-<img src="/assets/img/Unity%20Galaga%20Clone.gif" width="320" height="640"/>
+<img src="/assets/img/Unity%20Galaga%20Clone.gif" width="320" height="620"/>
 #### Things learned:
 * Simple AI moving patterns in Unity.
 * Creating prefabs of objects to later manipulate said objects.
