@@ -12,3 +12,12 @@ author: Javier
 * Simple AI moving patterns in Unity.
 * Creating prefabs of objects to later manipulate said objects.
 * Using the audio system in Unity to play sound effects and background music.
+
+
+## Placeholder code block
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
