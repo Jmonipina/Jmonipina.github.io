@@ -11,3 +11,13 @@ author: Javier
 * Simple AI for enemy movement and reactions.
 * Manipulating meshes to change textures. In this case, swapped the weapon.
 * Manipulating pre-existing animations to change walking animation to match speed in this demo.
+
+
+## Placeholder code block 
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
