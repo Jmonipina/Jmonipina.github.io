@@ -16,7 +16,7 @@ author: Javier
 * Creating parallax scrolling background effect using Unity. 
 
 ## Post-course changes
-After the course had ended, I decided to expand on the project to learn different applications of features that were not implemented to the course.
+After the course had ended, I decided to expand on the project to learn different applications of features that were not implemented during the course.
 A Data Persistence Manager has been implemented to manage a Save and Load system. The system will save the data into an encrypted json file.
 
 The current model saves the current score and the position of the player when the application ends.
