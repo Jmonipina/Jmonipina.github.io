@@ -18,8 +18,11 @@ author: Javier
 ## Post-course changes
 After the course had ended, I decided to expand on the project to learn different applications of features that were not implemented to the course.
 A Data Persistence Manager has been implemented to manage a Save and Load system. The system will save the data into an encrypted json file.
+
 The current model saves the current score and the position of the player when the application ends.
 The game loads the data once the user presses the "Continue" button in the main menu.
+
+
 Later to be implemented:
 * Save the player's health and carry it to a new scene.
 * Save the player's progress once a level has been completed.
